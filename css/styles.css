@@ -2,14 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Oleo+Script:wght@400;700&display=swap');
 
 
-
 body {
 	font-family:cambria ;
 }
 
 img {
     width: 50%;
-   
+
 }
 
 .fotoSuperior{
@@ -17,7 +16,6 @@ img {
     border: 2px solid rgb(210, 210, 9);
     width: 50%;
     margin-left: 0;
-    
     
 }
 
@@ -39,7 +37,6 @@ table {
     margin: auto;
     table-layout:fixed;
     width: 100%;
-
 }
 
 
